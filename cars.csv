@@ -1,0 +1,22 @@
+manufacturer_name,model_name,transmission,color,year_produced,engine_fuel,engine_type,body_type,price_usd,location_region
+Subaru,Outback,automatic,silver,2010,gasoline,gasoline,universal,10900,Minsk region
+Subaru,Outback,automatic,blue,2002,gasoline,gasoline,universal,5000,Minsk region
+Subaru,Forester,automatic,red,2001,gasoline,gasoline,suv,2800,Minsk region
+Subaru,Impreza,mechanical,blue,1999,gasoline,gasoline,sedan,9999,Minsk region
+Chrysler,Grand Voyager,automatic,grey,1998,gasoline,gasoline,minivan,3450,Minsk region
+Chrysler,Voyager,mechanical,silver,2005,diesel,diesel,minivan,6500,Minsk region
+Chrysler,PT Cruiser,automatic,blue,2003,gasoline,gasoline,sedan,2800,Vitebsk region
+Chrysler,Voyager,automatic,brown,1997,gasoline,gasoline,minivan,2700,Minsk region
+Chrysler,Voyager,mechanical,silver,1999,diesel,diesel,minivan,1600,Minsk region
+Chrysler,Neon,mechanical,green,1995,gasoline,gasoline,sedan,550,Grodnen region
+Chrysler,PT Cruiser,automatic,other,2004,gasoline,gasoline,hatchback,4000,Vitebsk region
+Audi,A6,automatic,brown,2011,gasoline,gasoline,sedan,15200,Grodnen region
+Audi,A6,automatic,silver,2010,diesel,diesel,sedan,13850,Minsk region
+Audi,100,mechanical,red,1993,gasoline,gasoline,sedan,2900,Minsk region
+Audi,80,mechanical,grey,1984,gasoline,gasoline,sedan,450,Minsk region
+Audi,80,mechanical,blue,1988,gasoline,gasoline,sedan,1100,Vitebsk region
+Audi,A6,mechanical,grey,2003,diesel,diesel,universal,6000,Brest region
+Audi,A6,automatic,black,1997,gas,gasoline,sedan,2850,Brest region
+Audi,A4,mechanical,black,2001,diesel,diesel,sedan,5800,Minsk region
+Audi,80,mechanical,silver,1981,diesel,diesel,sedan,400,Grodnen region
+Audi,A8,automatic,silver,1999,gasoline,gasoline,sedan,5500,Minsk region

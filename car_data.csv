@@ -1,0 +1,8 @@
+body_type,model,color,price,car_id,manufacturer_id
+universal,Outback,silver,10900,1,1
+sedan,Vesta,grey,8200,2,2
+universal,Largus,silver,7066,3,2
+sedan,S40,silver,3900,4,3
+universal,850,blue,2800,5,3
+suv,Land Cruiser,other,29600,6,4
+sedan,Carina E,other,1450,7,4
